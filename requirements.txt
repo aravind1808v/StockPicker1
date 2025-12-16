@@ -1,0 +1,11 @@
+requests
+python-dotenv
+rich
+langgraph 
+langchain 
+langchain-openai 
+pydantic 
+python-dotenv 
+requests 
+tiingo
+massive
